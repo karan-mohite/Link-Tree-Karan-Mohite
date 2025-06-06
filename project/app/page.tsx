@@ -56,7 +56,7 @@ export default function ProfileLinks() {
     },
     {
       name: "Resume",
-      href: "https://drive.google.com/file/d/1Uml-uTFqqGhcNk85z7qVzAH0kEQ7kyT0/view",
+      href: "https://drive.google.com/file/d/1kUAu4kfU3ev07UnXz8wONaS09jYXStzl/view?usp=sharing",
       icon: <svg viewBox="0 0 24 24" className="w-6 h-6" fill="currentColor">
         <path d="M5 20h14v-2H5v2zm7-14v6h-4l5 5 5-5h-4v-6h-2z"/>
       </svg>
