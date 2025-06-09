@@ -48,7 +48,7 @@ export default function ProfileLinks() {
     },
     {
       name: "Email",
-      href: "mailto:mohitekaran18@gmail.com",
+      href: "mailto:mohitekaran234@gmail.com",
       icon: 
         <svg viewBox="0 0 24 24" className="w-6 h-6" fill="currentColor">
           <path d="M20 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z" />
@@ -56,7 +56,7 @@ export default function ProfileLinks() {
     },
     {
       name: "Resume",
-      href: "https://drive.google.com/file/d/1kUAu4kfU3ev07UnXz8wONaS09jYXStzl/view?usp=sharing",
+      href: "https://drive.google.com/file/d/1AttWHsPH2JsdkwnVT0AN5IfGdkZsIzvk/view?usp=sharing",
       icon: <svg viewBox="0 0 24 24" className="w-6 h-6" fill="currentColor">
         <path d="M5 20h14v-2H5v2zm7-14v6h-4l5 5 5-5h-4v-6h-2z"/>
       </svg>
